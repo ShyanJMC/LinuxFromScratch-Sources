@@ -7,6 +7,9 @@ This repositorie only have the target to concentrate the sources codes needed to
 ## Note
 JHalfs are the official scripts for automate the process of build your Linux from scratch. The rest of programs are the requeriment for LFS/CLFS pure.
 
+# Usage
+git clone https://github.com/ShyanJMC/LinuxFromScratch-Sources && git submodule init && git submodule sync && git submodule update
+
 # Build
 LinuxFromScratch: http://www.linuxfromscratch.org/lfs/
 
