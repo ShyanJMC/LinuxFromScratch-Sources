@@ -46,3 +46,6 @@
 [submodule "m4"]
 	path = m4
 	url = https://git.savannah.gnu.org/git/m4.git
+[submodule "busybox"]
+	path = busybox
+	url = https://git.busybox.net/busybox/
