@@ -54,4 +54,4 @@
 	url = https://gitlab.inria.fr/mpc/mpc
 [submodule "musl"]
 	path = musl
-	url = git://git.musl-libc.org/musl
+	url = git://git.musl-libc.org/musl/
