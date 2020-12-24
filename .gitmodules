@@ -49,3 +49,9 @@
 [submodule "busybox"]
 	path = busybox
 	url = https://git.busybox.net/busybox/
+[submodule "mpc"]
+	path = mpc
+	url = https://gitlab.inria.fr/mpc/mpc
+[submodule "musl"]
+	path = musl
+	url = git://git.musl-libc.org/musl
