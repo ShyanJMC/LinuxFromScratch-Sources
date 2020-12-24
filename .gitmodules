@@ -1,0 +1,48 @@
+[submodule "jhalfs"]
+	path = jhalfs
+	url = https://github.com/automate-lfs/jhalfs
+[submodule "binutils-gdb"]
+	path = binutils-gdb
+	url = git://sourceware.org/git/binutils-gdb.git
+[submodule "gcc"]
+	path = gcc
+	url = git://gcc.gnu.org/git/gcc.git
+[submodule "tar"]
+	path = tar
+	url = https://git.savannah.gnu.org/git/tar.git
+[submodule "texinfo"]
+	path = texinfo
+	url = https://git.savannah.gnu.org/git/textinfo.git
+[submodule "diffutils"]
+	path = diffutils
+	url = https://git.savannah.gnu.org/git/diffutils.git
+[submodule "findutils"]
+	path = findutils
+	url = https://git.savannah.gnu.org/git/findutils.git
+[submodule "gawk"]
+	path = gawk
+	url = https://git.savannah.gnu.org/git/gawk.git
+[submodule "gzip"]
+	path = gzip
+	url = https://git.savannah.gnu.org/git/gzip.git
+[submodule "make"]
+	path = make
+	url = https://git.savannah.gnu.org/git/make.git
+[submodule "patch"]
+	path = patch
+	url = https://git.savannah.gnu.org/git/patch.git
+[submodule "sed"]
+	path = sed
+	url = https://git.savannah.gnu.org/git/sed.git
+[submodule "coreutils"]
+	path = coreutils
+	url = https://git.savannah.gnu.org/git/coreutils.git
+[submodule "glibc"]
+	path = glibc
+	url = https://git.savannah.gnu.org/git/glibc.git
+[submodule "grep"]
+	path = grep
+	url = https://git.savannah.gnu.org/git/grep.git
+[submodule "m4"]
+	path = m4
+	url = https://git.savannah.gnu.org/git/m4.git
