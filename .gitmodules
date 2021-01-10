@@ -55,3 +55,6 @@
 [submodule "musl"]
 	path = musl
 	url = git://git.musl-libc.org/musl/
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/u-boot/u-boot
