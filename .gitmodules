@@ -67,3 +67,6 @@
 [submodule "sudo"]
 	path = sudo
 	url = https://github.com/sudo-project/sudo
+[submodule "systemd"]
+	path = systemd
+	url = https://github.com/systemd/systemd
