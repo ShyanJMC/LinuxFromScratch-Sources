@@ -73,3 +73,12 @@
 [submodule "openrc"]
 	path = openrc
 	url = https://github.com/OpenRC/openrc
+[submodule "sysvinit"]
+	path = sysvinit
+	url = https://git.savannah.nongnu.org/git/sysvinit.git
+[submodule "sysvinit-insserv"]
+	path = sysvinit-insserv
+	url = https://git.savannah.nongnu.org/git/sysvinit/insserv.git
+[submodule "sysvinit-startpar"]
+	path = sysvinit-startpar
+	url = https://git.savannah.nongnu.org/git/sysvinit/startpar.git
