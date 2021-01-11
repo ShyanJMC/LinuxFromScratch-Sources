@@ -64,3 +64,6 @@
 [submodule "bzip2"]
 	path = bzip2
 	url = git://sourceware.org/git/bzip2.git
+[submodule "sudo"]
+	path = sudo
+	url = https://github.com/sudo-project/sudo
