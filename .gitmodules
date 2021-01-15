@@ -82,3 +82,6 @@
 [submodule "sysvinit-startpar"]
 	path = sysvinit-startpar
 	url = https://git.savannah.nongnu.org/git/sysvinit/startpar.git
+[submodule "cross-lfs-bootscripts-ebedded"]
+	path = cross-lfs-bootscripts-ebedded
+	url = https://github.com/cross-lfs/bootscripts-embedded
