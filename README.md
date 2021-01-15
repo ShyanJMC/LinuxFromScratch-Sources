@@ -22,7 +22,8 @@ The process to build your own Linux from Scratch (in any arch) is specified in t
 
 # Copyright and credits
 * GNU; https://www.gnu.org/
-**  Savannah Repo; https//savannah.gnu.org/
+
+>  Savannah Repo; https//savannah.gnu.org/
 
 * SetHwklein; http://sethwklein.net/iana-etc
 
