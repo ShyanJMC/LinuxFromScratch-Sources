@@ -8,17 +8,23 @@ This repositorie only have the target to concentrate the sources codes needed to
 JHalfs are the official scripts for automate the process of build your Linux from scratch. The rest of programs are the requeriment for LFS/CLFS pure.
 
 # Usage
-git clone https://github.com/ShyanJMC/LinuxFromScratch-Sources && git submodule init && git submodule sync && git submodule update --recursive
+> git clone https://github.com/ShyanJMC/LinuxFromScratch-Sources && git submodule init && git submodule sync && git submodule update --recursive
 
 # Build
-LinuxFromScratch: http://www.linuxfromscratch.org/lfs/
 
-CrossLinuxFromScratch: https://trac.clfs.org/
+The process to build your own Linux from Scratch (in any arch) is specified in the below documentation:
 
-Automated LinuxFromScratch: http://www.linuxfromscratch.org/alfs/
+* LinuxFromScratch: http://www.linuxfromscratch.org/lfs/
+
+* CrossLinuxFromScratch: https://trac.clfs.org/
+
+* Automated LinuxFromScratch: http://www.linuxfromscratch.org/alfs/
 
 # Copyright and credits
 * GNU; https://www.gnu.org/
+**  Savannah Repo; https//savannah.gnu.org/
+
+* SetHwklein; http://sethwklein.net/iana-etc
 
 * Bzip; http://www.bzip.org/
 
@@ -34,4 +40,6 @@ Automated LinuxFromScratch: http://www.linuxfromscratch.org/alfs/
 
 * MPC; https://gitlab.inria.fr/mpc/mpc
 
-* Musl; git.musl-libc.org/musl/
+* Musl; https://git.musl-libc.org/musl/
+
+* Systemd; https://systemd.io/
