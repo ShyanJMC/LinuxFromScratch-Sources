@@ -25,6 +25,8 @@ The process to build your own Linux from Scratch (in any arch) is specified in t
 
 >  Savannah Repo; https//savannah.gnu.org/
 
+* Linux kernel; https://www.kernel.org/
+
 * SetHwklein; http://sethwklein.net/iana-etc
 
 * Bzip; http://www.bzip.org/
