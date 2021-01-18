@@ -85,3 +85,6 @@
 [submodule "cross-lfs-bootscripts-embedded"]
 	path = cross-lfs-bootscripts-embedded
 	url = https://github.com/cross-lfs/bootscripts-embedded
+[submodule "barebox"]
+	path = barebox
+	url = git://git.pengutronix.de/barebox
