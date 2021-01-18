@@ -10,9 +10,6 @@
 [submodule "tar"]
 	path = tar
 	url = https://git.savannah.gnu.org/git/tar.git
-[submodule "texinfo"]
-	path = texinfo
-	url = https://git.savannah.gnu.org/git/textinfo.git
 [submodule "diffutils"]
 	path = diffutils
 	url = https://git.savannah.gnu.org/git/diffutils.git
@@ -37,9 +34,6 @@
 [submodule "coreutils"]
 	path = coreutils
 	url = https://git.savannah.gnu.org/git/coreutils.git
-[submodule "glibc"]
-	path = glibc
-	url = https://git.savannah.gnu.org/git/glibc.git
 [submodule "grep"]
 	path = grep
 	url = https://git.savannah.gnu.org/git/grep.git
@@ -91,3 +85,6 @@
 [submodule "openssh-portable"]
 	path = openssh-portable
 	url = https://github.com/openssh/openssh-portable
+[submodule "glibc"]
+	path = glibc
+	url = git://sourceware.org/git/glibc.git
