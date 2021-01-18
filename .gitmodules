@@ -88,3 +88,6 @@
 [submodule "barebox"]
 	path = barebox
 	url = git://git.pengutronix.de/barebox
+[submodule "openssh-portable"]
+	path = openssh-portable
+	url = https://github.com/openssh/openssh-portable
