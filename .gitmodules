@@ -88,3 +88,6 @@
 [submodule "glibc"]
 	path = glibc
 	url = git://sourceware.org/git/glibc.git
+[submodule "crosstool-ng"]
+	path = crosstool-ng
+	url = https://github.com/crosstool-ng/crosstool-ng
