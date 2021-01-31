@@ -91,3 +91,6 @@
 [submodule "crosstool-ng"]
 	path = crosstool-ng
 	url = https://github.com/crosstool-ng/crosstool-ng
+[submodule "raspberrypi-userland"]
+	path = raspberrypi-userland
+	url = https://github.com/raspberrypi/userland
