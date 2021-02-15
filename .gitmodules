@@ -94,3 +94,6 @@
 [submodule "raspberrypi-userland"]
 	path = raspberrypi-userland
 	url = https://github.com/raspberrypi/userland
+[submodule "curl"]
+	path = curl
+	url = https://github.com/curl/curl.git
