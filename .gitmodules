@@ -100,3 +100,24 @@
 [submodule "eudev"]
 	path = eudev
 	url = https://gitweb.gentoo.org/proj/eudev.git
+[submodule "pacman"]
+	path = pacman
+	url = git://git.archlinux.org/pacman.git
+[submodule "apt"]
+	path = apt
+	url = https://salsa.debian.org/apt-team/apt
+[submodule "rpm"]
+	path = rpm
+	url = https://github.com/rpm-software-management/rpm
+[submodule "lua"]
+	path = lua
+	url = https://github.com/lua/lua
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/llvm/llvm-project
+[submodule "dpkg"]
+	path = dpkg
+	url = https://git.dpkg.org/cgit/dpkg/dpkg.git
+[submodule "cmake"]
+	path = cmake
+	url = https://gitlab.kitware.com/cmake/cmake
