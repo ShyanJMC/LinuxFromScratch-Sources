@@ -121,3 +121,6 @@
 [submodule "libreoffice-core"]
 	path = libreoffice-core
 	url = https://git.libreoffice.org/core
+[submodule "poppler-libpdftool"]
+	path = poppler-libpdftool
+	url = https://github.com/freedesktop/poppler
