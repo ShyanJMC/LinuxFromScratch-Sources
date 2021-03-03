@@ -100,9 +100,6 @@
 [submodule "eudev"]
 	path = eudev
 	url = https://gitweb.gentoo.org/proj/eudev.git
-[submodule "pacman"]
-	path = pacman
-	url = git://git.archlinux.org/pacman.git
 [submodule "apt"]
 	path = apt
 	url = https://salsa.debian.org/apt-team/apt
@@ -121,3 +118,6 @@
 [submodule "cmake"]
 	path = cmake
 	url = https://gitlab.kitware.com/cmake/cmake
+[submodule "libreoffice-core"]
+	path = libreoffice-core
+	url = https://git.libreoffice.org/core
