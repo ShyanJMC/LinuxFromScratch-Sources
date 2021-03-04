@@ -124,3 +124,9 @@
 [submodule "poppler-libpdftool"]
 	path = poppler-libpdftool
 	url = https://github.com/freedesktop/poppler
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/ruby/ruby
+[submodule "cpython"]
+	path = cpython
+	url = https://github.com/python/cpython
