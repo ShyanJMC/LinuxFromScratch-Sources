@@ -130,3 +130,12 @@
 [submodule "cpython"]
 	path = cpython
 	url = https://github.com/python/cpython
+[submodule "ruby-rake"]
+	path = ruby-rake
+	url = https://github.com/ruby/rake
+[submodule "wine"]
+	path = wine
+	url = git://source.winehq.org/git/wine.git
+[submodule "php-src"]
+	path = php-src
+	url = https://github.com/php/php-src
