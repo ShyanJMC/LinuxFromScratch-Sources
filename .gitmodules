@@ -157,3 +157,6 @@
 [submodule "libexpat"]
 	path = libexpat
 	url = https://github.com/libexpat/libexpat
+[submodule "libarchive"]
+	path = libarchive
+	url = https://github.com/libarchive/libarchive
