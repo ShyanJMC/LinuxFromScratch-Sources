@@ -163,3 +163,9 @@
 [submodule "gpgme"]
 	path = gpgme
 	url = https://dev.gnupg.org/source/gpgme.git
+[submodule "libassuan"]
+	path = libassuan
+	url = https://github.com/gpg/libassuan
+[submodule "libgpg-error"]
+	path = libgpg-error
+	url = https://github.com/gpg/libgpg-error
