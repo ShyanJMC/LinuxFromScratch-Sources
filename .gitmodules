@@ -160,3 +160,6 @@
 [submodule "libarchive"]
 	path = libarchive
 	url = https://github.com/libarchive/libarchive
+[submodule "gpgme"]
+	path = gpgme
+	url = https://dev.gnupg.org/source/gpgme.git
