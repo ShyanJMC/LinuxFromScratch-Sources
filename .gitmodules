@@ -154,3 +154,6 @@
 [submodule "NetworkManager"]
 	path = NetworkManager
 	url = https://gitlab.freedesktop.org/NetworkManager/NetworkManager.git
+[submodule "libexpat"]
+	path = libexpat
+	url = https://github.com/libexpat/libexpat
