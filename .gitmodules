@@ -169,3 +169,6 @@
 [submodule "libgpg-error"]
 	path = libgpg-error
 	url = https://github.com/gpg/libgpg-error
+[submodule "pacman"]
+	path = pacman
+	url = https://git.archlinux.org/pacman.git
