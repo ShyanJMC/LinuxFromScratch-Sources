@@ -172,3 +172,6 @@
 [submodule "pacman"]
 	path = pacman
 	url = https://git.archlinux.org/pacman.git
+[submodule "dropbear"]
+	path = dropbear
+	url = https://github.com/mkj/dropbear
