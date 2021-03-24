@@ -175,3 +175,6 @@
 [submodule "dropbear"]
 	path = dropbear
 	url = https://github.com/mkj/dropbear
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib
