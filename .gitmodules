@@ -181,3 +181,24 @@
 [submodule "udev-gentoo-scripts"]
 	path = udev-gentoo-scripts
 	url = https://gitweb.gentoo.org/proj/udev-gentoo-scripts.git/
+[submodule "rust-lang-cargo"]
+	path = rust-lang-cargo
+	url = https://github.com/rust-lang/cargo
+[submodule "rust-lang-libc"]
+	path = rust-lang-libc
+	url = https://github.com/rust-lang/libc
+[submodule "rust-lang-rustup"]
+	path = rust-lang-rustup
+	url = https://github.com/rust-lang/rustup
+[submodule "rust-lang"]
+	path = rust-lang
+	url = https://github.com/rust-lang/rust
+[submodule "ninja-build"]
+	path = ninja-build
+	url = https://github.com/ninja-build/ninja
+[submodule "git"]
+	path = git
+	url = https://github.com/git/git
+[submodule "pkg-config"]
+	path = pkg-config
+	url = https://gitlab.freedesktop.org/pkg-config/pkg-config
