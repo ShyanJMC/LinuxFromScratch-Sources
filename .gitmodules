@@ -202,3 +202,54 @@
 [submodule "pkg-config"]
 	path = pkg-config
 	url = https://gitlab.freedesktop.org/pkg-config/pkg-config
+[submodule "rust-lang-coreutils_alternatives/bat"]
+	path = rust-lang-coreutils_alternatives/bat
+	url = https://github.com/sharkdp/bat
+[submodule "rust-lang-coreutils_alternatives/exa"]
+	path = rust-lang-coreutils_alternatives/exa
+	url = https://github.com/ogham/exa
+[submodule "rust-lang-coreutils_alternatives/fd"]
+	path = rust-lang-coreutils_alternatives/fd
+	url = https://github.com/sharkdp/fd
+[submodule "rust-lang-coreutils_alternatives/procs"]
+	path = rust-lang-coreutils_alternatives/procs
+	url = https://github.com/dalance/procs
+[submodule "rust-lang-coreutils_alternatives/sd"]
+	path = rust-lang-coreutils_alternatives/sd
+	url = https://github.com/chmln/sd
+[submodule "rust-lang-coreutils_alternatives/dust"]
+	path = rust-lang-coreutils_alternatives/dust
+	url = https://github.com/bootandy/dust
+[submodule "rust-lang-coreutils_alternatives/ripgrep"]
+	path = rust-lang-coreutils_alternatives/ripgrep
+	url = https://github.com/BurntSushi/ripgrep
+[submodule "rust-lang-coreutils_alternatives/tokei"]
+	path = rust-lang-coreutils_alternatives/tokei
+	url = https://github.com/XAMPPRocky/tokei
+[submodule "rust-lang-coreutils_alternatives/hyperfine"]
+	path = rust-lang-coreutils_alternatives/hyperfine
+	url = https://github.com/sharkdp/hyperfine
+[submodule "rust-lang-coreutils_alternatives/ytop"]
+	path = rust-lang-coreutils_alternatives/ytop
+	url = https://github.com/cjbassi/ytop
+[submodule "rust-lang-coreutils_alternatives/tealdeer"]
+	path = rust-lang-coreutils_alternatives/tealdeer
+	url = https://github.com/dbrgn/tealdeer
+[submodule "rust-lang-coreutils_alternatives/bandwhich"]
+	path = rust-lang-coreutils_alternatives/bandwhich
+	url = https://github.com/imsnif/bandwhich
+[submodule "rust-lang-coreutils_alternatives/grex"]
+	path = rust-lang-coreutils_alternatives/grex
+	url = https://github.com/pemistahl/grex
+[submodule "rust-lang-coreutils_alternatives/rmesg"]
+	path = rust-lang-coreutils_alternatives/rmesg
+	url = https://github.com/polyverse/rmesg/
+[submodule "rust-lang-coreutils_alternatives/zoxide"]
+	path = rust-lang-coreutils_alternatives/zoxide
+	url = https://github.com/ajeetdsouza/zoxide
+[submodule "rust-lang-coreutils_alternatives/nushell"]
+	path = rust-lang-coreutils_alternatives/nushell
+	url = https://github.com/nushell/nushell
+[submodule "podman"]
+	path = podman
+	url = https://github.com/containers/podman
