@@ -256,3 +256,24 @@
 [submodule "gnulib"]
 	path = gnulib
 	url = https://git.savannah.gnu.org/git/gnulib.git
+[submodule "iptables"]
+	path = iptables
+	url = git://git.netfilter.org/iptables
+[submodule "arptables"]
+	path = arptables
+	url = git://git.netfilter.org/arptables
+[submodule "nftables"]
+	path = nftables
+	url = git://git.netfilter.org/nftables
+[submodule "libnftnl"]
+	path = libnftnl
+	url = git://git.netfilter.org/libnftnl
+[submodule "ipset"]
+	path = ipset
+	url = git://git.netfilter.org/ipset
+[submodule "iputils"]
+	path = iputils
+	url = git://github.com/iputils/iputils
+[submodule "iproute2"]
+	path = iproute2
+	url = git://git.kernel.org/pub/scm/network/iproute2/iproute2.git
