@@ -253,3 +253,6 @@
 [submodule "podman"]
 	path = podman
 	url = https://github.com/containers/podman
+[submodule "gnulib"]
+	path = gnulib
+	url = https://git.savannah.gnu.org/git/gnulib.git
