@@ -286,3 +286,6 @@
 [submodule "dnf"]
 	path = dnf
 	url = https://github.com/rpm-software-management/dnf
+[submodule "portage"]
+	path = portage
+	url = https://anongit.gentoo.org/git/proj/portage.git
