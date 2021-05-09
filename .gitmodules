@@ -283,3 +283,6 @@
 [submodule "vim"]
 	path = vim
 	url = git://github.com/vim/vim
+[submodule "dnf"]
+	path = dnf
+	url = https://github.com/rpm-software-management/dnf
