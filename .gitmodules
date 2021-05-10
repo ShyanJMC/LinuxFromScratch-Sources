@@ -289,3 +289,42 @@
 [submodule "portage"]
 	path = portage
 	url = https://anongit.gentoo.org/git/proj/portage.git
+[submodule "wireless-tools"]
+	path = wireless-tools
+	url = https://github.com/HewlettPackard/wireless-tools
+[submodule "wget"]
+	path = wget
+	url = https://git.savannah.gnu.org/git/wget.git
+[submodule "podman-compose"]
+	path = podman-compose
+	url = git://github.com/containers/podman-compose
+[submodule "fuse-overlayfs"]
+	path = fuse-overlayfs
+	url = git://github.com/containers/fuse-overlayfs
+[submodule "containers-conmon"]
+	path = containers-conmon
+	url = git://github.com/containers/conmon
+[submodule "c-runc"]
+	path = c-runc
+	url = git://github.com/containers/crun
+[submodule "opencontainers-runc"]
+	path = opencontainers-runc
+	url = git://github.com/opencontainers/runc
+[submodule "containernetworking-plugins"]
+	path = containernetworking-plugins
+	url = git://github.com/containernetworking/plugins
+[submodule "containers-common"]
+	path = containers-common
+	url = git://github.com/containers/common
+[submodule "lvm2-device_mapper"]
+	path = lvm2-device_mapper
+	url = git://sourceware.org/git/lvm2.git
+[submodule "libseccomp"]
+	path = libseccomp
+	url = git://github.com/seccomp/libseccomp
+[submodule "slirp4netns"]
+	path = slirp4netns
+	url = git://github.com/rootless-containers/slirp4netns
+[submodule "cgroups"]
+	path = cgroups
+	url = git://github.com/containerd/cgroups
