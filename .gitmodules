@@ -328,3 +328,6 @@
 [submodule "cgroups"]
 	path = cgroups
 	url = git://github.com/containerd/cgroups
+[submodule "bind9"]
+	path = bind9
+	url = https://gitlab.isc.org/isc-projects/bind9.git
