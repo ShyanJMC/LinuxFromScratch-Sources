@@ -334,3 +334,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/nginx/nginx.git
+[submodule "apache-httpd"]
+	path = apache-httpd
+	url = https://github.com/apache/httpd.git
