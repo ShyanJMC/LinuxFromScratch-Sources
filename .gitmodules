@@ -337,3 +337,6 @@
 [submodule "apache-httpd"]
 	path = apache-httpd
 	url = https://github.com/apache/httpd.git
+[submodule "lighttpd1.4"]
+	path = lighttpd1.4
+	url = https://github.com/lighttpd/lighttpd1.4.git
