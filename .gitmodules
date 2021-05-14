@@ -331,3 +331,6 @@
 [submodule "bind9"]
 	path = bind9
 	url = https://gitlab.isc.org/isc-projects/bind9.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/nginx/nginx.git
