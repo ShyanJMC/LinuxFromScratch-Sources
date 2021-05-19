@@ -340,3 +340,6 @@
 [submodule "lighttpd1.4"]
 	path = lighttpd1.4
 	url = https://github.com/lighttpd/lighttpd1.4.git
+[submodule "file"]
+	path = file
+	url = https://github.com/file/file
