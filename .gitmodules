@@ -376,3 +376,6 @@
 [submodule "qemu-sgabios"]
 	path = qemu-sgabios
 	url = https://github.com/qemu/sgabios
+[submodule "skiboot"]
+	path = skiboot
+	url = https://github.com/open-power/skiboot
