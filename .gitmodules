@@ -382,3 +382,6 @@
 [submodule "vlc"]
 	path = vlc
 	url = https://github.com/videolan/vlc
+[submodule "youtube-dl"]
+	path = youtube-dl
+	url = https://github.com/ytdl-org/youtube-dl
