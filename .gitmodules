@@ -352,3 +352,27 @@
 [submodule "onionshare"]
 	path = onionshare
 	url = https://github.com/micahflee/onionshare
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/qemu/QEMU
+[submodule "qemu-uboot"]
+	path = qemu-uboot
+	url = https://github.com/qemu/u-boot
+[submodule "qemu-opensbi"]
+	path = qemu-opensbi
+	url = https://github.com/qemu/opensbi
+[submodule "qemu-skiboot"]
+	path = qemu-skiboot
+	url = https://github.com/qemu/skiboot
+[submodule "qemu-seabios"]
+	path = qemu-seabios
+	url = https://github.com/qemu/seabios
+[submodule "qemu-openbios"]
+	path = qemu-openbios
+	url = https://github.com/qemu/openbios
+[submodule "qemu-qboot"]
+	path = qemu-qboot
+	url = https://github.com/qemu/qboot
+[submodule "qemu-sgabios"]
+	path = qemu-sgabios
+	url = https://github.com/qemu/sgabios
