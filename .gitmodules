@@ -379,3 +379,6 @@
 [submodule "skiboot"]
 	path = skiboot
 	url = https://github.com/open-power/skiboot
+[submodule "vlc"]
+	path = vlc
+	url = https://github.com/videolan/vlc
