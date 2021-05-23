@@ -349,3 +349,6 @@
 [submodule "box86"]
 	path = box86
 	url = https://github.com/ptitSeb/box86
+[submodule "onionshare"]
+	path = onionshare
+	url = https://github.com/micahflee/onionshare
