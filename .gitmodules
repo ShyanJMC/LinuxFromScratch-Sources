@@ -346,3 +346,6 @@
 [submodule "tesseract-optical_character_recognition"]
 	path = tesseract-optical_character_recognition
 	url = https://github.com/tesseract-ocr/tesseract
+[submodule "box86"]
+	path = box86
+	url = https://github.com/ptitSeb/box86
