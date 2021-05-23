@@ -343,3 +343,6 @@
 [submodule "file"]
 	path = file
 	url = https://github.com/file/file
+[submodule "tesseract-optical_character_recognition"]
+	path = tesseract-optical_character_recognition
+	url = https://github.com/tesseract-ocr/tesseract
