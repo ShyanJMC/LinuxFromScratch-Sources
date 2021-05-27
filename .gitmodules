@@ -385,3 +385,6 @@
 [submodule "youtube-dl"]
 	path = youtube-dl
 	url = https://github.com/ytdl-org/youtube-dl
+[submodule "linux"]
+	path = linux
+	url = https://github.com/torvalds/linux.git
