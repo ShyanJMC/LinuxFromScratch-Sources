@@ -397,3 +397,42 @@
 [submodule "ethtool"]
 	path = ethtool
 	url = https://git.kernel.org/pub/scm/network/ethtool/ethtool.git
+[submodule "cryptsetup"]
+	path = cryptsetup
+	url = https://gitlab.com/cryptsetup/cryptsetup
+[submodule "gnupg"]
+	path = gnupg
+	url = https://dev.gnupg.org/source/gnupg.git
+[submodule "gnutls"]
+	path = gnutls
+	url = https://gitlab.com/gnutls/gnutls/
+[submodule "linux-pam"]
+	path = linux-pam
+	url = https://github.com/linux-pam/linux-pam
+[submodule "liboauth"]
+	path = liboauth
+	url = https://github.com/x42/liboauth
+[submodule "kerberos-krb5"]
+	path = kerberos-krb5
+	url = https://github.com/krb5/krb5
+[submodule "nettle"]
+	path = nettle
+	url = https://git.lysator.liu.se/nettle/nettle
+[submodule "nss"]
+	path = nss
+	url = https://github.com/nss-dev/nss
+[submodule "p11-kit"]
+	path = p11-kit
+	url = https://github.com/p11-glue/p11-kit
+[submodule "polkit"]
+	path = polkit
+	url = https://gitlab.freedesktop.org/polkit/polkit/
+[submodule "shadow"]
+	path = shadow
+	url = https://github.com/shadow-maint/shadow
+[submodule "tripwire-open-source"]
+	path = tripwire-open-source
+	url = https://github.com/Tripwire/tripwire-open-source
+[submodule "volume_key"]
+	path = volume_key
+	url = https://pagure.io/volume_key
