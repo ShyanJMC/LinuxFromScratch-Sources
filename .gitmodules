@@ -436,3 +436,69 @@
 [submodule "volume_key"]
 	path = volume_key
 	url = https://pagure.io/volume_key
+[submodule "btrfs-progs"]
+	path = btrfs-progs
+	url = https://github.com/kdave/btrfs-progs
+[submodule "efibootmgr"]
+	path = efibootmgr
+	url = https://github.com/rhboot/efibootmgr
+[submodule "efivar"]
+	path = efivar
+	url = https://github.com/rhboot/efivar
+[submodule "sshfs"]
+	path = sshfs
+	url = https://github.com/libfuse/sshfs
+[submodule "smartmontools"]
+	path = smartmontools
+	url = https://github.com/smartmontools/smartmontools/
+[submodule "parted"]
+	path = parted
+	url = https://git.savannah.gnu.org/git/parted.git
+[submodule "ntfs-3g"]
+	path = ntfs-3g
+	url = git://ntfs-3g.git.sourceforge.net/gitroot/ntfs-3g/ntfs-3g
+[submodule "mdadm"]
+	path = mdadm
+	url = https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git/
+[submodule "dosfstools"]
+	path = dosfstools
+	url = https://github.com/dosfstools/dosfstools
+[submodule "libfuse"]
+	path = libfuse
+	url = https://github.com/libfuse/libfuse
+[submodule "zsh-code"]
+	path = zsh-code
+	url = https://git.code.sf.net/p/zsh/code
+[submodule "tcsh"]
+	path = tcsh
+	url = https://github.com/tcsh-org/tcsh
+[submodule "dash"]
+	path = dash
+	url = https://git.kernel.org/pub/scm/utils/dash/dash.git
+[submodule "brotli"]
+	path = brotli
+	url = https://github.com/google/brotli
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost
+[submodule "clucene"]
+	path = clucene
+	url = git://clucene.git.sourceforge.net/gitroot/clucene/clucene
+[submodule "double-conversion"]
+	path = double-conversion
+	url = https://github.com/google/double-conversion
+[submodule "enchant"]
+	path = enchant
+	url = https://github.com/AbiWord/enchant
+[submodule "psmisc"]
+	path = psmisc
+	url = https://gitlab.com/psmisc/psmisc
+[submodule "procps"]
+	path = procps
+	url = https://gitlab.com/procps-ng/procps/
+[submodule "man-db"]
+	path = man-db
+	url = https://git.savannah.nongnu.org/git/man-db.git
+[submodule "perl5"]
+	path = perl5
+	url = https://github.com/Perl/perl5
