@@ -502,3 +502,18 @@
 [submodule "perl5"]
 	path = perl5
 	url = https://github.com/Perl/perl5
+[submodule "automake"]
+	path = automake
+	url = https://git.savannah.gnu.org/git/automake.git
+[submodule "autoconf"]
+	path = autoconf
+	url = https://git.savannah.gnu.org/git/autoconf.git
+[submodule "libtool"]
+	path = libtool
+	url = https://git.savannah.gnu.org/git/libtool.git
+[submodule "gettext"]
+	path = gettext
+	url = https://git.savannah.gnu.org/git/gettext.git
+[submodule "elogind"]
+	path = elogind
+	url = https://github.com/elogind/elogind
