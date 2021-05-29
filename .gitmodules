@@ -517,3 +517,9 @@
 [submodule "elogind"]
 	path = elogind
 	url = https://github.com/elogind/elogind
+[submodule "cups"]
+	path = cups
+	url = https://github.com/apple/cups
+[submodule "swift"]
+	path = swift
+	url = https://github.com/apple/swift
