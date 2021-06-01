@@ -523,3 +523,6 @@
 [submodule "swift"]
 	path = swift
 	url = https://github.com/apple/swift
+[submodule "auto-cpufreq"]
+	path = auto-cpufreq
+	url = https://github.com/AdnanHodzic/auto-cpufreq
