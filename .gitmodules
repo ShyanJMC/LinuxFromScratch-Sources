@@ -526,3 +526,6 @@
 [submodule "auto-cpufreq"]
 	path = auto-cpufreq
 	url = https://github.com/AdnanHodzic/auto-cpufreq
+[submodule "libplist"]
+	path = libplist
+	url = https://github.com/libimobiledevice/libplist
