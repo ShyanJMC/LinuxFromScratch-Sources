@@ -529,3 +529,9 @@
 [submodule "libplist"]
 	path = libplist
 	url = https://github.com/libimobiledevice/libplist
+[submodule "rclone"]
+	path = rclone
+	url = https://github.com/rclone/rclone
+[submodule "rsync"]
+	path = rsync
+	url = https://github.com/WayneD/rsync
