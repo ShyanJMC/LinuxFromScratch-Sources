@@ -535,3 +535,9 @@
 [submodule "rsync"]
 	path = rsync
 	url = https://github.com/WayneD/rsync
+[submodule "xz_utils-lzma_utils"]
+	path = xz_utils-lzma_utils
+	url = https://git.tukaani.org/xz.git
+[submodule "xz-embedded"]
+	path = xz-embedded
+	url = https://git.tukaani.org/xz-embedded.git
