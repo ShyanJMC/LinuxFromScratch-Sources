@@ -541,3 +541,12 @@
 [submodule "xz-embedded"]
 	path = xz-embedded
 	url = https://git.tukaani.org/xz-embedded.git
+[submodule "openjdk-jdk"]
+	path = openjdk-jdk
+	url = https://github.com/openjdk/jdk
+[submodule "openjdk-jdk-sandbox"]
+	path = openjdk-jdk-sandbox
+	url = https://github.com/openjdk/jdk-sandbox.git
+[submodule "openjdk-aarch64_port"]
+	path = openjdk-aarch64_port
+	url = https://github.com/openjdk/aarch64-port
