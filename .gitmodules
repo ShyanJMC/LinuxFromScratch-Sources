@@ -553,3 +553,9 @@
 [submodule "ghostscript"]
 	path = ghostscript
 	url = https://git.savannah.gnu.org/git/ghostscript.git
+[submodule "ImageMagick"]
+	path = ImageMagick
+	url = https://github.com/ImageMagick/ImageMagick
+[submodule "OpenCL-SDK"]
+	path = OpenCL-SDK
+	url = https://github.com/KhronosGroup/OpenCL-SDK/
