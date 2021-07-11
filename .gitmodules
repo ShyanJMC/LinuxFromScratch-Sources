@@ -559,3 +559,6 @@
 [submodule "OpenCL-SDK"]
 	path = OpenCL-SDK
 	url = https://github.com/KhronosGroup/OpenCL-SDK/
+[submodule "qpdf"]
+	path = qpdf
+	url = https://github.com/qpdf/qpdf
