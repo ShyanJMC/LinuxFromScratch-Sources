@@ -565,3 +565,6 @@
 [submodule "tor"]
 	path = tor
 	url = https://git.torproject.org/tor.git
+[submodule "gnu-readline"]
+	path = gnu-readline
+	url = https://git.savannah.gnu.org/git/readline.git
