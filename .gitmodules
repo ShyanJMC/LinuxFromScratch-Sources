@@ -673,3 +673,9 @@
 [submodule "pipewire"]
 	path = pipewire
 	url = https://gitlab.freedesktop.org/pipewire/pipewire.git
+[submodule "iwd"]
+	path = iwd
+	url = git://git.kernel.org/pub/scm/network/wireless/iwd.git
+[submodule "connman"]
+	path = connman
+	url = git://git.kernel.org/pub/scm/network/connman/connman.git
