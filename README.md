@@ -1,11 +1,12 @@
 # LinuxFromScratch-Sources
 Repositorie of LinuxFromScratch's sources needed for build your own GNU/Linux following LFS/CLFS documentation.
+This repositorie only have CLI (Command Line Interface) programs, not GUI like Gnome, Firefox, etc. This is because if I must include them, I will also must include a lot of libs.
 
 Take in consideration this; I'm NOT the owner and/or developper of this software. The projects are specified in "Copyright and credits" section. <br/>
 This repositorie only have the target to concentrate the sources codes needed to build your LinuxFromScratch base, also this is needed for Cross Linux From Scratch.
 
 ## Note
-JHalfs are the official scripts for automate the process of build your Linux from scratch. The rest of programs are the requeriment for LFS/CLFS pure.
+This repo use a lot of space, take it in consideration if you want clone it into an SD.
 
 # Usage
 > git clone https://github.com/ShyanJMC/LinuxFromScratch-Sources && git submodule init && git submodule sync && git submodule update --recursive
@@ -21,6 +22,8 @@ The process to build your own Linux from Scratch (in any arch) is specified in t
 * Automated LinuxFromScratch: http://www.linuxfromscratch.org/alfs/
 
 # Copyright and credits
+* Each software's dev.
+
 * GNU; https://www.gnu.org/
 
 >  Savannah Repo; https//savannah.gnu.org/
