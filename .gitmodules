@@ -568,3 +568,81 @@
 [submodule "gnu-readline"]
 	path = gnu-readline
 	url = https://git.savannah.gnu.org/git/readline.git
+[submodule "hugo"]
+	path = hugo
+	url = https://github.com/gohugoio/hugo
+[submodule "sqlite"]
+	path = sqlite
+	url = https://github.com/sqlite/sqlite
+[submodule "postgres"]
+	path = postgres
+	url = https://github.com/postgres/postgres
+[submodule "mysql-server"]
+	path = mysql-server
+	url = https://github.com/mysql/mysql-server
+[submodule "pgadmin4"]
+	path = pgadmin4
+	url = https://github.com/postgres/pgadmin4
+[submodule "mysql-shell"]
+	path = mysql-shell
+	url = https://github.com/mysql/mysql-shell
+[submodule "mysql-connector-cpp"]
+	path = mysql-connector-cpp
+	url = https://github.com/mysql/mysql-connector-cpp
+[submodule "mysql-connector-odbc"]
+	path = mysql-connector-odbc
+	url = https://github.com/mysql/mysql-connector-odbc
+[submodule "mysql-connector-python"]
+	path = mysql-connector-python
+	url = https://github.com/mysql/mysql-connector-python
+[submodule "mysql-connector-nodejs"]
+	path = mysql-connector-nodejs
+	url = https://github.com/mysql/mysql-connector-nodejs
+[submodule "mysql-connector-net"]
+	path = mysql-connector-net
+	url = https://github.com/mysql/mysql-connector-net
+[submodule "mysql-js"]
+	path = mysql-js
+	url = https://github.com/mysql/mysql-js
+[submodule "mysql-utilities"]
+	path = mysql-utilities
+	url = https://github.com/mysql/mysql-utilities
+[submodule "mysql-router"]
+	path = mysql-router
+	url = https://github.com/mysql/mysql-router
+[submodule "mongo-ruby-driver"]
+	path = mongo-ruby-driver
+	url = https://github.com/mongodb/mongo-ruby-driver
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/mongodb/mongo
+[submodule "mongo-c-driver"]
+	path = mongo-c-driver
+	url = https://github.com/mongodb/mongo-c-driver
+[submodule "libmongocrypt"]
+	path = libmongocrypt
+	url = https://github.com/mongodb/libmongocrypt
+[submodule "mongo-csharp-driver"]
+	path = mongo-csharp-driver
+	url = https://github.com/mongodb/mongo-csharp-driver
+[submodule "mongo-php-library"]
+	path = mongo-php-library
+	url = https://github.com/mongodb/mongo-php-library
+[submodule "mongo-rust-driver"]
+	path = mongo-rust-driver
+	url = https://github.com/mongodb/mongo-rust-driver
+[submodule "mongo-python-driver"]
+	path = mongo-python-driver
+	url = https://github.com/mongodb/mongo-python-driver
+[submodule "mongo-go-driver"]
+	path = mongo-go-driver
+	url = https://github.com/mongodb/mongo-go-driver
+[submodule "mongoid"]
+	path = mongoid
+	url = https://github.com/mongodb/mongoid
+[submodule "mongo-php-driver"]
+	path = mongo-php-driver
+	url = https://github.com/mongodb/mongo-php-driver
+[submodule "mongo-swift-driver"]
+	path = mongo-swift-driver
+	url = https://github.com/mongodb/mongo-swift-driver
