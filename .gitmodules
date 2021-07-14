@@ -646,3 +646,27 @@
 [submodule "mongo-swift-driver"]
 	path = mongo-swift-driver
 	url = https://github.com/mongodb/mongo-swift-driver
+[submodule "util-linux"]
+	path = util-linux
+	url = git://git.kernel.org/pub/scm/utils/util-linux/util-linux.git
+[submodule "cpufrequtils"]
+	path = cpufrequtils
+	url = git://git.kernel.org/pub/scm/utils/kernel/cpufreq/cpufrequtils.git
+[submodule "pciutils"]
+	path = pciutils
+	url = git://git.kernel.org/pub/scm/utils/pciutils/pciutils.git
+[submodule "quota-tools"]
+	path = quota-tools
+	url = https://git.kernel.org/pub/scm/utils/quota/quota-tools.git
+[submodule "udev"]
+	path = udev
+	url = https://git.kernel.org/pub/scm/linux/hotplug/udev.git
+[submodule "qemu-kvm"]
+	path = qemu-kvm
+	url = git://git.kernel.org/pub/scm/virt/kvm/qemu-kvm.git
+[submodule "phonesim-phone_simulation"]
+	path = phonesim-phone_simulation
+	url = git://git.kernel.org/pub/scm/network/ofono/phonesim.git
+[submodule "pacrunner"]
+	path = pacrunner
+	url = git://git.kernel.org/pub/scm/network/connman/pacrunner.git
