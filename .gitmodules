@@ -670,3 +670,6 @@
 [submodule "pacrunner"]
 	path = pacrunner
 	url = git://git.kernel.org/pub/scm/network/connman/pacrunner.git
+[submodule "pipewire"]
+	path = pipewire
+	url = https://gitlab.freedesktop.org/pipewire/pipewire.git
